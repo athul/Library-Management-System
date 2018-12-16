@@ -19,7 +19,15 @@ from django.urls import include
 from django.views.generic import RedirectView
 from django.conf import settings
 from django.conf.urls.static import static
+admin.site.site_header = 'Library admin'
 
+admin.site.site_title = 'CS Department Library '
+
+
+
+admin.site.index_title = 'CS dept Library administration'
+
+admin.empty_value_display = '**Empty**'
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('catalog/', include('catalog.urls')),
