@@ -1,5 +1,5 @@
 [It is LIVE click here](https://athulca.pythonanywhere.com)
-# LMS
+# LMS(Not Deployment Ready... Yet!) 
 ## A Library Management System for Small Libraries.
 This was made For CE Kidangoor's Computer Science Department Library.This LMS's backend is in Django.
 -------------
