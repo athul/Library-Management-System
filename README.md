@@ -23,5 +23,6 @@ Created by CEK Open Source Community with :heart:
 
 
 With help of Mozilla.    
-Feel Free to Open an Issue,we'll Definetely Help
+Feel Free to Open an Issue,we'll Definetely Help     
+<a href="http://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/badges/djangomade124x25.gif" border="0" alt="Made with Django." title="Made with Django." /></a>
 
