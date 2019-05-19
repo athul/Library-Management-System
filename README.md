@@ -1,6 +1,6 @@
-[It is LIVE click here](https://athulca.pythonanywhere.com)
-# LMS(Not Deployment Ready... Yet!) 
-## A Library Management System for Small Libraries.
+[Better Working Fork](https://github.com/cek-open-source-club/Project-Libra)
+# This Project is Deprecated and won't work its full. 
+## Use the above link
 This was made For CE Kidangoor's Computer Science Department Library.This LMS's backend is in Django.
 -------------
 First install the Requirements for **python**,
